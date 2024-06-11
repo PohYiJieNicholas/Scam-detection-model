@@ -5,4 +5,5 @@ my_gpt_model/config.json
 saved_model-20240608T103857Z-001.zip
 gpt_sentiment_classification/all_results.json
 /gpt_sentiment_classification
+/sentiment_classification
 /models
