@@ -17,7 +17,7 @@ Generated data:
 ### Prerequirsite
 Python Jupyter Notebook was used to develop the code to evaluate the different model. This model can be run on a cloud environment service like Google CoLab or run on a local environment with a NVIDEA CUDA supported GPU.
 
-1. Install the python liberies
+1. Install the python libraries
 
 ``` 
     pip install -r requirements.txt
